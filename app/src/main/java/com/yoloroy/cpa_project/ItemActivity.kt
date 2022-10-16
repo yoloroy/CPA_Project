@@ -28,6 +28,7 @@ class ItemActivity : AppCompatActivity() {
         super.onStart()
         val titleText = intent.extras?.getString(TITLE) ?: "error"
         val bodyText = intent.extras?.getString(BODY) ?: "error"
+        setTitle(titleText)
         title.text = titleText
         body.text = bodyText
     }
