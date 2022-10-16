@@ -6,5 +6,6 @@
 ## Result
 <p float="left">
 <img width="300" src="https://user-images.githubusercontent.com/33396665/196044909-0bf51e1f-bcc8-4d7a-9cdc-1f6d1819b885.png" />
-<img width="300" src="https://user-images.githubusercontent.com/33396665/196044895-93d1aef6-8940-4a1e-ae75-2241807cfb0e.png" />
+<img width="300" src="https://user-images.githubusercontent.com/33396665/196045334-8bd5598a-c864-4caf-a87a-778c4846eac7.png" />
+
 <p/>
